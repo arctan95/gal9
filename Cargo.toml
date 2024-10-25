@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["arctan95 <jaeqentan@gmail.com>"]
 description = "A full-featured Silly Gal No.9 is at your service!"
 license = "Apache-2.0"
+repository = "https://github.com/arctan95/gal9"
 edition = "2021"
 
 [[bin]]
